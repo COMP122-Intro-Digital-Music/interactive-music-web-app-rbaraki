@@ -1,0 +1,37 @@
+[
+  {
+    "name": "A",
+    "pitch": "A3",
+    "pattern": "1000"
+  },
+  {
+    "name": "B",
+    "pitch": "B3",
+    "pattern": "1000"
+  },
+  {
+    "name": "C",
+    "pitch": "F4",
+    "pattern": "91000"
+  },
+  {
+    "name": "E",
+    "pitch": "D4",
+    "pattern": "1000"
+  },
+  {
+    "name": "G",
+    "pitch": "D#4",
+    "pattern": "91000"
+  },
+  {
+    "name": "F",
+    "pitch": "D#4",
+    "pattern": "1000"
+  },
+  {
+    "name": "H",
+    "pitch": "F#4",
+    "pattern": "1000"
+  }
+]
